@@ -501,4 +501,3 @@ curl -X GET http://localhost:5000/api/v1/tasks \
 For API issues or questions:
 - Check Swagger docs: `http://localhost:5000/api-docs`
 - Review examples in this documentation
-- Contact: joydip@primetrade.ai
