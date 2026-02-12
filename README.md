@@ -227,12 +227,6 @@ See [ADMIN_SETUP.md](./ADMIN_SETUP.md) for detailed instructions.
 - **Admin View**: See all tasks with creator information (name & email)
 - Responsive grid layout
 
-## 📧 Contact
-
-For questions about this assignment:
-- **Email**: joydip@primetrade.ai, hello@primetrade.ai, chetan@primetrade.ai, sonika@primetrade.ai
-- **Subject**: <Your Name> Backend Developer Task
-
 ## 📄 License
 
 This project is created as part of the Backend Developer Intern assignment for PrimeTrade.
